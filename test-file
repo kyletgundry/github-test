@@ -1,1 +1,3 @@
 puts "Working with the termainal!"
+
+puts "The first time I tried this exercise I failed."
